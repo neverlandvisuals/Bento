@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'coffee',
+			icon: 'backpack',
 			id: '1',
 			links: [
 				{
