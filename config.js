@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'personal',
+			icon: 'coffe',
 			id: '1',
 			links: [
 				{
@@ -151,30 +151,30 @@ const CONFIG = {
 					link: 'https://github.com/',
 				},
 				{
-					name: 'Unsplash',
-					link: 'https://www.unsplash.com',
+					name: 'Zoro',
+					link: 'https://www.zoro.to',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'paintbrush',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'colorPalettes',
+					link: 'https://coolors.co/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Icons',
+					link: 'https://fontawesome.com/icons',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Illustrator',
+					link: 'https://storytale.io/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Express',
+					link: 'https://express.adobe.com/sp/',
 				},
 			],
 		},
@@ -187,20 +187,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Code',
+					link: 'https://www.theodinproject.com/dashboard',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'TypeScale',
+					link: 'https://type-scale.com/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'FontTypos',
+					link: 'http://velvetyne.fr/',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Unsplash',
+					link: 'https://www.unsplash.com',
 				},
 			],
 		},
