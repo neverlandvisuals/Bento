@@ -152,7 +152,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Zoro',
-					link: 'https://www.zoro.to',
+					link: 'https://www.zoro.to/home',
 				},
 			],
 		},
